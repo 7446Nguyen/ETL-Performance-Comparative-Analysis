@@ -1,0 +1,154 @@
+Store #	Address	City	ST
+204 	455 Manzanita Ave.	Carmichael	NY
+205 	501 Raley Blvd.	Mento	NY
+206 	308 Sunrise Blvd., Suite B	Rancho Cordova	NY
+209 	457 Rocklin Road	Rocklin	NY
+210 	267 Florin Road	Sacramento	NY
+211 	45 Blue Ravine Road	Folsom	NY
+212 	121 Mangrove Ave.	Chic	NY
+214 	600 Folsom Blvd., Suite 200	Sacramento	NY
+215 	108 Douglas Blvd.	Roseville	NY
+216 	1029 E. Stockton Blvd. #101	Elk Grove	NY
+217 	266 Hilltop Drive	Redding	NY
+219 	781 Greenback Lane	Citrus Heights	NY
+220 	41 Grass Valley Highway	Auburn	NY
+221 	780 Stockton Blvd. #100	Red Cliff	NY
+225 	81 Harbor Blvd.	Westmento	NY
+229 	412 Chiles Road	Davis	NY
+235 	233 Arden Way, Suite B	Red Cliff	NY
+207 	335 N. Carson St.	Carson City	NY
+208 	80 Patriot Blvd.	Renfro	NY
+213 	217 Market St	Renfro	NY
+226 	403 Truckee Airport Rd	Trenton	NY
+228 	237 Lake Erie Blvd.	South Lake	NY
+230 	518 Sparks Blvd,	Sparks	NY
+231 	94 Ambassador Dr	Reno	NY
+222 	119 Highway 88	Jacksonville	NY
+303 	20 N. Tracy Blvd.	Morrison	NY
+304 	88 Sanguinetti Road	Mountain Villiage	NY
+305 	22 Monte Diablo Ave.	Stockford	NY
+306 	104 McHenry Ave.	Earath	NY
+307 	495 North Blackstone	Oak Creek	NY
+308 	210 West Monte Vista Ave.	Nunn	NY
+309 	210 S. Main Street	Lavato	NY
+311 	17 “V” Street	Baker	NY
+313 	320 Hammer Lane,	Truluck	NY
+314 	53 Pirrone Road	Otis	NY
+315 	20 Mooney Blvd.	Orchard City	NY
+318 	35 Kettleman Lane	Campo	NY
+603 	10 Fitzuren Road	Jackson	NY
+604 	415 Telegraph Ave.	Tracy	NY
+605 	491 International Blvd.	Sonora	NY
+606 	560 Imhoff Drive, Suite A	Stockton	NY
+607 	28 Mission Blvd.	Earth	NY
+609 	398 First Street	Fresno	NY
+610 	694 Amador Plaza Rd	Turlock	NY
+614 	200 N. Main Street	Concord	NY
+616 	151 Hesperian Blvd.	Castro Valley	NY
+617 	200 San Ramon Valley Blvd.	Lafayette	NY
+619 	460 Auto Mall Parkway	Redfern	NY
+620 	175 Contra Costa Blvd.	Pleasant Hill	NY
+622 	240 Sand Creek Road	Brentwood	NY
+623 	4877 Hopyard Rd., Suite B-2	Pleasanton	NY
+624 	649 Pacific Ave	Alameda	NY
+625 	5195 Clayton Road	Concord	NY
+626 	3090 Castro Valley Blvd.	Castro Valley	NY
+627 	3707 Mount Diablo Blvd.	Lafayette	NY
+628 	954 Decoto Road	Redfern	NY
+806 	49 Blossom Hill Road	Fremont	NY
+807 	114 Bascom Ave.	Red Bluff	NY
+808 	112 Camden Ave.	Cedar Valley	NY
+809 	165 Capitol Expressway	Sanger	NY
+810 	150 De Anza Blvd.	Pleasantview	NY
+811 	70 Auzerais Ave.	Argyle	NY
+812 	210 Alum Rock Ave.	Farmer	NY
+813 	501 Campbell Ave.	Denton	NY
+816 	301 Calaveras Blvd.	Lake City	NY
+818 	90 Laurelwood Rd	Clarita	NY
+819 	205 El Camino Real	Clarita	NY
+822 	99 El Camino Real	Sunnydake	NY
+828 	75 Saratoga Ave, Suite C	Kennedy	NY
+803 	60 Griffin Street	Kersey	NY
+804 	121 Fremont Blvd.	Seaside	NY
+805 	101 Ocean St.	Hudson	NY
+814 	856 Monterey St.	St. Petersburg	NY
+820 	145 Freedom Blvd.	Gainsville	NY
+821 	10 Country Club Gate Center	Atlantis	NY
+823 	170 South Broadway	Watsontown	NY
+824 	17 Tank Farm Rd.	Obispo	NY
+826 	611 Creston Road	Haswell	NY
+827 	82 Dunne Ave	Grover	NY
+611 	145 San Pablo Ave.	Fleming	NY
+612 	99 San Pablo Ave.	Edgewater	NY
+905 	60 Francisco Blvd.	Pluto	NY
+908 	148 Guerneville Rd	Elizabeth	NY
+909 	48 Rohnert Park Exp.	Lost Creek	NY
+910 	27 Roberts Ave.	Santa Ana	NY
+911 	16 Fourth Street	Santa Ana	NY
+912 	217 Gobbi Street	Ukiah	NY
+913 	88 Olive Ave.	Novato	NY
+919 	120 Oliver Road	Fairfield	NY
+920 	81 Tennessee Street	Chocktaw	NY
+921 	15 Elmira Rd	Devil Slide	NY
+922 	399 Jefferson Street	Pacifica	NY
+923 	185 Highway 12	Castle Rock	NY
+924 	90 Lakeville Hwy	Coal Creek	NY
+925 	888 Lakewood Dr	Bennet	NY
+1103 	120 Harrison Street	Alamosa	NY
+1104 	13 Hickey Blvd.	Kent	NY
+1105 	71 Bayshore Blvd.	Ulises	NY
+1106 	34 Divisadero St.	Upton	NY
+1107 	56 Van Ness Ave.	Baytown	NY
+1108 	18 El Camino Real	Spearman	NY
+1114 	61 South “B” St.	Pampa	NY
+1115 	149 El Camino Real	Pibble	NY
+1116 	175 Commercial St.	Long Beach	NY
+1117 	45 Taraval Street	Shreveport	NY
+1118 	41 Fairchild Drive	Georgetown	NY
+1119 	41 Page Mill Road	Midland	NY
+1120 	139 Woodside Rd, Suite 100	Lubbock	NY
+1123 	685 Mission Street	Washington	NY
+1403 	337 First St.	Aptos	NY
+1404 	72 Duniven Circle	Red River	NY
+1405 	521 50th St.	Vail	NY
+1406 	85 West Avenue “N”	Gunnison	NY
+1409 	262 Kemp Blvd.	Sunnyvale	NY
+1411 	290 Grandview Ave.	Sheridan	NY
+1412 	20 Midkiff	Austin	NY
+1415 	30 East Elms Rd.	Fairchild	NY
+1416 	442 West Waco Dr.	Alpine	NY
+1503 	300 Williams Dr. #100	Brooklyn	NY
+1504 	355 Ranch Road 620, #125	Saxton	NY
+1510 	925 Burnet Road	Saxton	NY
+1511 	417 Victory Drive	Temple	NY
+1517 	40 West Whitestone, #B	Cedars	NY
+1522 	93 Loop 150	Queens	NY
+1523 	440 Highway 1431	NYC	NY
+1527 	98 Sundance Pkwy	San Antonio	NY
+1529 	281 Thornton Lane	West	NY
+1603 	18 24th Ave.	Canton	NY
+1604 	439 South Sheridan Road	Poolville	NY
+1605 	190 West Kenosha	Lewisville	NY
+1606 	234 N. May Ave.	Italy	NY
+1607 	72 South Broadway	Townsman	NY
+1610 	124 Garth Brooks Blvd.	Yuka	NY
+1618 	1211 South Memorial Drive	Sooner	NY
+1805 	1430 Josey Lane	Sunset	NY
+1809 	256 South Cooper St	Dallas	NY
+1810 	339 Central Expressway	June	NY
+1812 	82 Beltline Rd.	Spain	NY
+1814 	92 Loop 281	Monterey	NY
+1815 	47 Troup Highway	Mundy	NY
+1816 	361 Beltline Rd.	Trophy Club	NY
+1817 	275 Irving Blvd.	Ciss	NY
+1823 	27 Main St	Duluth	NY
+1827 	141 N. Custer Rd 	Cornucopia	NY
+1803 	33 West Hurst Blvd.	Paris	NY
+1806 	311 Alta Mere Dr.	Houston	NY
+1811 	92 Dallas Drive	Atlanta	NY
+1813 	111 Berry Street	Kemo	NY
+1819 	36 E. Keller Parkway	Kant	NY
+1821 	142 Plaza Dr.	Grove	NY
+1829 	145 US 287 Frontage Rd	Mangrove	NY
+1832 	129 W. Hwy 114	Toledo	NY
+1833 	262 Long Prairie Rd.	Daisy Bumo	NY
