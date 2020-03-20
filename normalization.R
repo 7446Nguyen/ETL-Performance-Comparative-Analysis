@@ -1,6 +1,6 @@
 install.packages(c('skimr','lubridate'))
 library(pacman)
-p_load('tidyverse','lubridate')
+p_load('tidyverse','lubridate','tswge')
 
 oracle = O_07012019_12312019
 
@@ -31,15 +31,20 @@ names(oracle2)[9]="extended_price"
 OrderHeader = oracle2 %>%
   select(order_source_reference, site_num, request_date)
 OrderHeader$ohID = seq.int(nrow(OrderHeader))
-OrderHeader = OrderHeader %>% select(5,1:4)
+OrderHeader = OrderHeader %>% select(4,1:3)
 
 #order_line
 order_line = oracle2 %>%
-  select(`Line`,`Order`,ordered_item,`eaches_qty`,extended_price)
+  select(`Line`,`Order`,ordered_item,`eaches_qty`,extended_price,order_source_reference)
 
 #item table
 item = oracle2 %>%
   distinct(ordered_item,item_desc)
+
+item1 = inner_join(item, item_price, by = 'ordered_item')
+item = item1 %>%
+  select(1,2,4)
+names(item)[3]='price_id'
 
 #Price Table
 #reannan will correct for there to be 400 unique item prices
@@ -49,3 +54,16 @@ names(item_price)[3]="selling_price"
 
 item_price$priceID = seq.int(nrow(item_price))
 item_price = item_price %>% select(4,1,3)
+item_price = item_price %>%
+  mutate(selling_price = if_else(selling_price == 16.22,1,selling_price)) %>%
+  mutate(selling_price = if_else(selling_price == 18.76,2,selling_price)) %>%
+  mutate(selling_price = if_else(selling_price == 23.45,3,selling_price)) %>%
+  mutate(selling_price = if_else(selling_price == 46.61,4,selling_price)) %>%
+  mutate(selling_price = if_else(selling_price == 52.83,5,selling_price)) %>%
+  mutate(selling_price = if_else(selling_price == 68.34,6,selling_price)) %>%
+  mutate(selling_price = if_else(selling_price == 87.87,7,selling_price))
+
+write.csv(OrderHeader,file = "orderHeader.csv")
+write.csv(order_line, file = "order_line.csv")
+write.csv(item, file = "item.csv")
+write.csv(item_price, file = "item_price.csv")
