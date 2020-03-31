@@ -5,7 +5,7 @@ Our goal is to identify storage and data transformation solutions that minimize 
 
 ![](https://github.com/7446Nguyen/Database_FileManagement_Project1/blob/master/scripts/images/ETLsoftware.png)
 
-## Folder Descriptions
+## Respository Contents
 **Reports and Findings** 
 - IEEE formatted project proposal and final reports are contained here.
 
